@@ -1,0 +1,410 @@
+[ 
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "McSpicy Chicken",
+     "price": 220.0,
+     "image": "mcspicychicken",
+     "category": "Burgers & Wraps",
+     "description": "Zesty and redolent whole muscle leg meat patty: Fried to perfect golden tan; quenched with creamy veg mayo and garden-fresh shredded iceberg lettuce. The sandwich is served in fresh, sesame-studded quarter pounder bun.",
+     "ingredients": "Quarter pounder bun crown, Veg sauce, Shredded lettuce, McSpicy chicken patty, Quarter pounder bun heel."
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "McSpicy Paneer",
+     "price": 210.0,
+     "image": "mcspicypaneer",
+     "category": "Burgers & Wraps",
+     "description": "Crispy and spicy paneer patty with creamy tandoori sauce and crispy lettuce topping.",
+     "ingredients": "Quarter pounder bun crown, Shredded lettuce, Tandoori mayo, Spicy paneer patty, Quarter pounder bun heel."
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "McChicken",
+     "price": 160.0,
+     "image": "mcchicken",
+     "category": "Burgers & Wraps",
+     "description": "Batter & breaded chicken patty containing green peas, carrots, green beans, onion, potatoes, rice and spices, served in a bun with eggless mayonnaise and lettuce.",
+     "ingredients": "Quarter bun crown, Veg mayonnaise, Shredded lettuce, McChicken patty, Quarter bun heel."
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "Chicken Maharaja Mac",
+     "price": 250.0,
+     "image": "chickenmaharajamac",
+     "category": "Burgers & Wraps",
+     "description": "A double-decker toasted Maharaja bun sandwiched with one layer of flame-grilled chicken patty; crunchy iceberg lettuce; shredded onion; and a slice of cheese. Topped with another layer of flame-grilled chicken patty; tomato slices; and crunchy iceberg lettuce infused with harberno sauce.",
+     "ingredients": "Maharaja bun crown, Haberno sauce, Shredded lettuce, Shredded onion, Jalapenos, Flame-grilled chicken patty, Sliced cheese, Maharaja bun heel."
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "Chicken McNuggets",
+     "price": 180.0,
+     "image": "chickenmcnuggets",
+     "category": "Snacks & sides",
+     "description": "Bite-sized pieces of breaded, boneless chicken formed in various shapes (Ball, Boot, Bell & Bone) fried and served hot with smoky Barbeque Sauce or Mustard Sauce.",
+     "ingredients": "Chicken bites."
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "Pizza McPuff",
+     "price": 150.0,
+     "image": "pizzamcpuff",
+     "category": "Snacks & sides",
+     "description": "A blend of assorted vegetables (carrot, beans,capsicum, onion & green peas); mozzarella cheese mixed with tomato sauce; and exotic spices stuffed in rectangle shaped savoury dough. Quick frozen.",
+     "ingredients": "Assorted vegetables, Refined wheat flour, Pizza seasoning"
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "Our World Famous Fries",
+     "price": 120.0,
+     "image": "ourworldfamousfries",
+     "category": "Snacks & sides",
+     "description": "The crisp, craveable, fan favourite: our World Famous Fries®. These epic fries are crispy and golden on the outside and fluffy on the inside.",
+     "ingredients": "Potato and salt"
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "Sundae (Chocolate Brownie)",
+     "price": 130.0,
+     "image": "sundaechocolatebrownie",
+     "category": "Desserts",
+     "description": "An iconic premium dessert option. Can be bought as an add-on to make it a 'full meal' or simply as an indulgence.",
+     "ingredients": "Soft serve mix (63e4c185fcc604a0ba6910e8% diary), Hazelnut brownie, Hot fudge topping."
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "McFlurry (Choco Crunch)",
+     "price": 160.0,
+     "image": "mcflurrychococrunch",
+     "category": "Desserts",
+     "description": "Milk-based frozen dessert with chocolate crispies and chocolate dip.",
+     "ingredients": "Milk fat, Chocolate."
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "McSwirl Chocolate",
+     "price": 170.0,
+     "image": "mcswirlchocolate",
+     "category": "Desserts",
+     "description": "Delightful soft-serve with a delectable chocolate topping.",
+     "ingredients": "Soft serve mix (63e4c185fcc604a0ba6910e8% diary product), Chocolate dip."
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "Sundae (Strawberry)",
+     "price": 180.0,
+     "image": "sundaestrawberry",
+     "category": "Desserts",
+     "description": "Creamy vanilla soft-serve with strawberry topping.",
+     "ingredients": "Soft serve mix (63e4c185fcc604a0ba6910e8% diary), Strawberry topping."
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "Tea with Milk",
+     "price": 50.0,
+     "image": "teawithmilk",
+     "category": "Beverages",
+     "description": "It's always a good time for tea.",
+     "ingredients": ""
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "Iced Tea",
+     "price": 40.0,
+     "image": "icedtea",
+     "category": "Beverages",
+     "description": "A blend of aromatic tea and the fruity flavour of lemon.",
+     "ingredients": ""
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "Hot Coffee",
+     "price": 60.0,
+     "image": "hotcoffee",
+     "category": "Beverages",
+     "description": "Perfectly brewed for any time of the day.",
+     "ingredients": ""
+   },
+   {
+     "restaurantId": "63e4c185fcc604a0ba6910e8",
+     "name": "Cold Coffee",
+     "price": 50.0,
+     "image": "coldcoffee",
+     "category": "Beverages",
+     "description": "Rich, creamy and indulgent cold coffee.",
+     "ingredients": ""
+   },
+   {
+     "restaurantId": "63e4c1b6fcc604a0ba6910ec",
+     "name": "Crispy Veg Burger",
+     "price": 130.0,
+     "image": "crispyvegburger",
+     "category": "Burgers"
+   },
+   {
+     "restaurantId": "63e4c1b6fcc604a0ba6910ec",
+     "name": "Crispy Veg Double Patty",
+     "price": 160.0,
+     "image": "crispyvegdoublepatty",
+     "category": "Burgers"
+   },
+   {
+     "restaurantId": "63e4c1b6fcc604a0ba6910ec",
+     "name": "Spicy Grill Chicken Burger",
+     "price": 220.0,
+     "image": "spicygrillchickenburger",
+     "category": "Burgers"
+   },
+   {
+     "restaurantId": "63e4c1b6fcc604a0ba6910ec",
+     "name": "Chicken Whopper",
+     "price": 180.0,
+     "image": "chickenwhopper",
+     "category": "Whopper"
+   },
+   {
+     "restaurantId": "63e4c1b6fcc604a0ba6910ec",
+     "name": "Chicken Twisted Whopper",
+     "price": 160.0,
+     "image": "chickentwistedwhopper",
+     "category": "Whopper"
+   },
+   {
+     "restaurantId": "63e4c1b6fcc604a0ba6910ec",
+     "name": "Chicken Wings",
+     "price": 160.0,
+     "image": "chickenwings",
+     "category": "Chicken Wings"
+   },
+   {
+     "restaurantId": "63e4c1b6fcc604a0ba6910ec",
+     "name": "Grilled Chicken Wings",
+     "price": 260.0,
+     "image": "grilledchickenwings",
+     "category": "Chicken Wings"
+   },
+   {
+     "restaurantId": "63e4c1b6fcc604a0ba6910ec",
+     "name": "Fries (Small)",
+     "price": 80.0,
+     "image": "fries",
+     "category": "Sides"
+   },
+   {
+     "restaurantId": "63e4c1b6fcc604a0ba6910ec",
+     "name": "Fries (Medium)",
+     "price": 100.0,
+     "image": "fries",
+     "category": "Sides"
+   },
+   {
+     "restaurantId": "63e4c1b6fcc604a0ba6910ec",
+     "name": "Chicken Fries",
+     "price": 150.0,
+     "image": "chickenfries",
+     "category": "Sides"
+   },
+   {
+     "restaurantId": "63e4c1f8fcc604a0ba6910f2",
+     "name": "Pepper Barbeque Chicken",
+     "price": 310.0,
+     "image": "pepperbarbequechicken",
+     "category": "Non-Veg Pizza"
+   },
+   {
+     "restaurantId": "63e4c1f8fcc604a0ba6910f2",
+     "name": "Chicken Sausage",
+     "price": 180.0,
+     "image": "chickensausage",
+     "category": "Non-Veg Pizza"
+   },
+   {
+     "restaurantId": "63e4c1f8fcc604a0ba6910f2",
+     "name": "Chicken Golden Delight",
+     "price": 160.0,
+     "image": "chickengoldendelight",
+     "category": "Non-Veg Pizza"
+   },
+   {
+     "restaurantId": "63e4c1f8fcc604a0ba6910f2",
+     "name": "Indian Chicken Tikka",
+     "price": 170.0,
+     "image": "indianchickentikka",
+     "category": "Non-Veg Pizza"
+   },
+   {
+     "restaurantId": "63e4c1f8fcc604a0ba6910f2",
+     "name": "Margherita",
+     "price": 120.0,
+     "image": "margherita",
+     "category": "Veg Pizza"
+   },
+   {
+     "restaurantId": "63e4c1f8fcc604a0ba6910f2",
+     "name": "Veg Extravaganza",
+     "price": 140.0,
+     "image": "vegextravaganza",
+     "category": "Veg Pizza"
+   },
+   {
+     "restaurantId": "63e4c1f8fcc604a0ba6910f2",
+     "name": "Mexican Green Wave",
+     "price": 180.0,
+     "image": "mexicangreenwave",
+     "category": "Veg Pizza"
+   },
+   {
+     "restaurantId": "63e4c1f8fcc604a0ba6910f2",
+     "name": "Indian Tandoori Paneer",
+     "price": 200.0,
+     "image": "indiantandooripaneer",
+     "category": "Veg Pizza"
+   },
+   {
+     "restaurantId": "63e4c1f8fcc604a0ba6910f2",
+     "name": "Veg Loaded",
+     "price": 190.0,
+     "image": "vegloaded",
+     "category": "Pizza Mania"
+   },
+   {
+     "restaurantId": "63e4c1f8fcc604a0ba6910f2",
+     "name": "Paneer & Onion",
+     "price": 170.0,
+     "image": "paneerandonion",
+     "category": "Pizza Mania"
+   },
+   {
+     "restaurantId": "63e4c1f8fcc604a0ba6910f2",
+     "name": "Garlic Breadsticks",
+     "price": 100.0,
+     "image": "garlicbreadsticks",
+     "category": "Sides and Beverages"
+   },
+   {
+     "restaurantId": "63e4c1f8fcc604a0ba6910f2",
+     "name": "Stuffed Garlic Bread",
+     "price": 120.0,
+     "image": "stuffedgarlicbread",
+     "category": "Sides and Beverages"
+   },
+   {
+     "restaurantId": "63e4c1a3fcc604a0ba6910ea",
+     "name": "Veggie Supreme",
+     "price": 150.0,
+     "image": "veggiesupreme",
+     "category": "Pizzas",
+     "description": "",
+     "ingredients": "Black Olives, Green Capsicum, Mushroom, Onion, Red Paprika, Sweet Corn"
+   },
+   {
+     "restaurantId": "63e4c1a3fcc604a0ba6910ea",
+     "name": "Spiced Chicken Meatballs",
+     "price": 190.0,
+     "image": "spicedchickenmeatballs",
+     "category": "Pizzas",
+     "description": "",
+     "ingredients": "Schezwan Chicken Meatball, Onion"
+   },
+   {
+     "restaurantId": "63e4c1a3fcc604a0ba6910ea",
+     "name": "Italian Chicken Feast",
+     "price": 230.0,
+     "image": "italianchickenfeast",
+     "category": "Pizzas",
+     "description": "",
+     "ingredients": "Chicken Sausage, Chicken Pepperoni, Sweet Corn, Black Olive, Jalapeno"
+   },
+   {
+     "restaurantId": "63e4c1a3fcc604a0ba6910ea",
+     "name": "Zesty Chicken Pocket",
+     "price": 180.0,
+     "image": "zestychickenpocket",
+     "category": "Sides",
+     "description": "",
+     "ingredients": "Freshly Baked Pocket Stuffed With Chicken, Veggies & Smoked Texas Garlic Sauce"
+   },
+      {
+      "restaurantId": "63e4c1a3fcc604a0ba6910ea",
+      "name": "Spiced Tomato Twist Non Veg",
+      "price": 190.0,
+      "image": "spicedtomatotwistnonveg",
+      "category": "Sides",
+      "description": "",
+      "ingredients": "Tangy Flavourful Red Sauce Pasta Infused With Heavenly Herbs & Spices Topped With Chicken Sausage"
+      },
+
+
+
+
+
+   
+ 
+	{
+		"_id": "63d3d8945645e88e2584efef",
+		"restaurantId": "63d3d242d144519c5a16cfc1",
+		"name": "McSpicy Paneer Salade",
+		"price": "210",
+		"image": "mcspicypaneer",
+		"categories": [
+			"Burgers & Wraps",
+			"Salade"
+		],
+		"description": "Crispy and spicy paneer patty with creamy tandoori sauce and crispy lettuce topping.",
+		"ingredients": [
+			"Quarter pounder bun crown",
+			"Shredded lettuce",
+			"Tandoori mayo",
+			"Spicy paneer patty",
+			"Quarter pounder bun heel."
+		],
+		"createdAt": "2023-01-27T13:58:44.159Z",
+		"updatedAt": "2023-01-27T14:01:42.308Z",
+		"__v": 0
+	},
+	{
+		"_id": "63d3d89b5645e88e2584eff1",
+		"restaurantId": "63d3d242d144519c5a16cfc1",
+		"name": "McSpicy Paneer",
+		"price": "210",
+		"image": "mcspicypaneer",
+		"categories": [
+			"Burgers & Wraps"
+		],
+		"description": "Crispy and spicy paneer patty with creamy tandoori sauce and crispy lettuce topping.",
+		"ingredients": [
+			"Quarter pounder bun crown",
+			"Shredded lettuce",
+			"Tandoori mayo",
+			"Spicy paneer patty",
+			"Quarter pounder bun heel."
+		],
+		"createdAt": "2023-01-27T13:58:51.452Z",
+		"updatedAt": "2023-01-27T13:58:51.452Z",
+		"__v": 0
+	},
+	{
+		"_id": "63d3d8a05645e88e2584eff3",
+		"restaurantId": "63d3d242d144519c5a16cfc1",
+		"name": "Chicken Maharaja Mac",
+		"price": "250",
+		"image": "chickenmaharajamac",
+		"categories": [
+			"Burgers & Wraps"
+		],
+		"description": "A double-decker toasted Maharaja bun sandwiched with one layer of flame-grilled chicken patty; crunchy iceberg lettuce; shredded onion; and a slice of cheese. Topped with another layer of flame-grilled chicken patty; tomato slices; and crunchy iceberg lettuce infused with harberno sauce.",
+		"ingredients": [
+			"Maharaja bun crown",
+			"Haberno sauce",
+			"Shredded lettuce",
+			"Shredded onion",
+			"Jalapenos",
+			"Flame-grilled chicken patty",
+			"Sliced cheese",
+			"Maharaja bun heel."
+		],
+		"createdAt": "2023-01-27T13:58:56.694Z",
+		"updatedAt": "2023-01-27T13:58:56.694Z",
+		"__v": 0
+	}
+]
